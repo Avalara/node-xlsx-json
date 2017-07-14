@@ -1,3 +1,5 @@
+FORK NOTE: Fork just to change a version pointer in package.json which gave npm install issues.
+
 # node-xlsx-json
 
 [![Build Status](https://travis-ci.org/DataGarage/node-xlsx-json.png?branch=master)](https://travis-ci.org/DataGarage/node-xlsx-json)
